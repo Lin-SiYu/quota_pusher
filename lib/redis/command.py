@@ -1,0 +1,4 @@
+SET = 'SET'
+GET = 'GET'
+DEL = 'DEL'
+PING = 'PING'
